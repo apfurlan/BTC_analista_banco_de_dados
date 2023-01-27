@@ -43,7 +43,7 @@
 
 ## **5 - Agrupamento de Dados e Funções de Agregação** 
 [Aula 5.1   ](https://www.youtube.com/watch?v=OLBXUhDJoDg) - Funções de agregação \
-[Aula 5.1.1](https://www.youtube.com/watch?v=-1kHeWcAQ4w) - Demonstração: Funções de agregação \ 
+[Aula 5.1.1](https://www.youtube.com/watch?v=-1kHeWcAQ4w) - Demonstração: Funções de agregação \
 [Aula 5.2   ](https://www.youtube.com/watch?v=Tcw093Vlv7E) - Agrupamento de dados \
 [Aula 5.2.1](https://www.youtube.com/watch?v=dLlCJWt0PTI) - Demonstração: Agrupando dados
 
