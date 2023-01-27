@@ -2,12 +2,12 @@
 
 
 ## **1 - Introdução à Modelagem de Dados**
-[Aula 1.1](https://www.youtube.com/watch?v=IbHB6U22crw) - Finalidade dos SGBDs \ 
-[Aula 1.2](https://www.youtube.com/watch?v=HdyJyMHBDwM) - Entidade \ 
-[Aula 1.3.1](https://www.youtube.com/watch?v=27sNYgFRwn4) - Modelagem de Dados: Relacionamentos - Parte I \  
-[Aula 1.3.2](https://www.youtube.com/watch?v=GICVEfEe1pk) - Modelagem de Dados: Relacionamentos - Parte II \ 
-[Aula 1.4.1](https://www.youtube.com/watch?v=iu_ThvyOBHM) - Construção  do Modelo Conceitual de Dados - Parte I \ 
-[Aula 1.4.2](https://www.youtube.com/watch?v=XT22pfGa788) - Construção  do Modelo Conceitual de Dados - Parte II \ 
+[Aula 1.1](https://www.youtube.com/watch?v=IbHB6U22crw) - Finalidade dos SGBDs \
+[Aula 1.2](https://www.youtube.com/watch?v=HdyJyMHBDwM) - Entidade \
+[Aula 1.3.1](https://www.youtube.com/watch?v=27sNYgFRwn4) - Modelagem de Dados: Relacionamentos - Parte I \
+[Aula 1.3.2](https://www.youtube.com/watch?v=GICVEfEe1pk) - Modelagem de Dados: Relacionamentos - Parte II \
+[Aula 1.4.1](https://www.youtube.com/watch?v=iu_ThvyOBHM) - Construção  do Modelo Conceitual de Dados - Parte I \
+[Aula 1.4.2](https://www.youtube.com/watch?v=XT22pfGa788) - Construção  do Modelo Conceitual de Dados - Parte II \
 [Aula 1.4.3](https://www.youtube.com/watch?v=sgIWhNq2MN8) - Construção  do Modelo Conceitual de Dados - Parte III
 
 ## **2 - Modelo Lógico** 
