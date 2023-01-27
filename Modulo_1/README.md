@@ -28,15 +28,15 @@
 
 
 ## **4 - Introdução aos Bancos de Dados NoSQL e Colunares - Parte II**
-[Aula 3.4.1](https://www.youtube.com/watch?v=mirL4lJmymY) - Modelagem de Bancos de Dados de Documentos - Parte I \ 
-[Aula 3.4.2](https://www.youtube.com/watch?v=KIW1Hr9W5Jg) - Modelagem de Bancos de Dados de Documentos - Parte II \ 
+[Aula 3.4.1](https://www.youtube.com/watch?v=mirL4lJmymY) - Modelagem de Bancos de Dados de Documentos - Parte I \
+[Aula 3.4.2](https://www.youtube.com/watch?v=KIW1Hr9W5Jg) - Modelagem de Bancos de Dados de Documentos - Parte II \
 [Aula 3.4.3](https://www.youtube.com/watch?v=ZZm8zo0XX3k) - Modelagem de Bancos de Dados de Documentos - Parte III \
 [Aula 3.4.4](https://www.youtube.com/watch?v=sZFPidFN0xw) - Modelagem de Bancos de Dados de Documentos - Parte IV
 
 ## **5 - Introdução ao SGBD SQL Server - Parte I**
-[Aula 4.1.1](https://www.youtube.com/watch?v=UUnHsLE1aYI) - Introdução ao SGBD SQL Server \ 
-[Aula 4.2.1](https://www.youtube.com/watch?v=mgDYa_Qz0q8) - Introdução aos Conceitos de Normalização - Parte I \ 
-[Aula 4.2.2](https://www.youtube.com/watch?v=KWwa7b6C3DU) - Introdução aos Conceitos de Normalização - Parte II \ 
+[Aula 4.1.1](https://www.youtube.com/watch?v=UUnHsLE1aYI) - Introdução ao SGBD SQL Server \
+[Aula 4.2.1](https://www.youtube.com/watch?v=mgDYa_Qz0q8) - Introdução aos Conceitos de Normalização - Parte I \
+[Aula 4.2.2](https://www.youtube.com/watch?v=KWwa7b6C3DU) - Introdução aos Conceitos de Normalização - Parte II \
 [Aula 4.3](https://www.youtube.com/watch?v=kTjJ9yW74qw) - Boas práticas de modelagem racional \
 [Aula 4.4](https://www.youtube.com/watch?v=q_-qCufSC58) - Introdução aos Bancos de Dados de Grafos - Parte I \
 [Aula 4.5](https://www.youtube.com/watch?v=QZzpUtmzSgU) -  Introdução aos Bancos de Dados de Grafos - Parte II
