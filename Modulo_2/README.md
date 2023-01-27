@@ -30,7 +30,7 @@
 [Aula 4.1.1](https://www.youtube.com/watch?v=-sn4PBX1wSw) - Demonstração: Selecionando dados \
 [Aula 4.2](https://www.youtube.com/watch?v=5ZKKcNbvvwU) - Operadores aritméticos e de concatenação \
 [Aula 4.2.1](https://www.youtube.com/watch?v=IhlW1_og_yg) - Demonstração: Operadores aritméticos e de concatenação \
-[Aula 4.3](https://www.youtube.com/watch?v=wTRyWzhxlXs) - Ordenando dados \ 
+[Aula 4.3](https://www.youtube.com/watch?v=wTRyWzhxlXs) - Ordenando dados \
 [Aula 4.3.1](https://www.youtube.com/watch?v=HI28k65ipLg) - Demonstração: Ordenando dados
 
 ## **4 - Linguagem de Manipulação de dados (DML) - Parte II**
