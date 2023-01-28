@@ -2,24 +2,20 @@
 
 
 ## **1 - Banco de Dados NoSQL**
-[Aula 1.1](https://www.youtube.com/watch?v=vBw0HgA-67U)Visão geral de NoSQL
-
-\
-[Aula 1.2](https://www.youtube.com/watch?v=K5eyN4FYywc)Propriedades dos Bancos de dados
-
-\
-[Aula 1.3](https://www.youtube.com/watch?v=1k9hZrrk9rM)Visão geral de NewSQL\
-[Aula 1.4](https://www.youtube.com/watch?v=QxUgNyTgPdE) Técnicas em Bancos NoSQL\
-[Aula 1.5](https://www.youtube.com/watch?v=IoqDa2fiqI8)Tipos de bancos NoSQL\
-[Aula 1.6](https://www.youtube.com/watch?v=u5j7TRpSkxo)Motivações no uso de NoSQL
+[Aula 1.1](https://www.youtube.com/watch?v=vBw0HgA-67U) - Visão geral de NoSQL \
+[Aula 1.2](https://www.youtube.com/watch?v=K5eyN4FYywc) - Propriedades dos Bancos de dados \
+[Aula 1.3](https://www.youtube.com/watch?v=1k9hZrrk9rM) - Visão geral de NewSQL\
+[Aula 1.4](https://www.youtube.com/watch?v=QxUgNyTgPdE) - Técnicas em Bancos NoSQL\
+[Aula 1.5](https://www.youtube.com/watch?v=IoqDa2fiqI8) - Tipos de bancos NoSQL\
+[Aula 1.6](https://www.youtube.com/watch?v=u5j7TRpSkxo) - Motivações no uso de NoSQL
 
 
 ## **2 - Principais bancos de dados NoSQL**
-[Aula 2.1](https://www.youtube.com/watch?v=HIcbO9EcgzI)Introdução ao Apache Cassandra \
-[Aula 2.2](https://www.youtube.com/watch?v=tcBpGFUKTNo)Introdução ao Redis \
-[Aula 2.3](https://www.youtube.com/watch?v=eu4xB70VULQ)Introdução ao Neo4j \
-[Aula 2.4](https://www.youtube.com/watch?v=ZhhZopBNYqY) Introdução ao MongoDB \
-[Aula 2.5](https://www.youtube.com/watch?v=ti-Ouyap8OE) Prática com MongoDB
+[Aula 2.1](https://www.youtube.com/watch?v=HIcbO9EcgzI) - Introdução ao Apache Cassandra \
+[Aula 2.2](https://www.youtube.com/watch?v=tcBpGFUKTNo) - Introdução ao Redis \
+[Aula 2.3](https://www.youtube.com/watch?v=eu4xB70VULQ) - Introdução ao Neo4j \
+[Aula 2.4](https://www.youtube.com/watch?v=ZhhZopBNYqY) - Introdução ao MongoDB \
+[Aula 2.5](https://www.youtube.com/watch?v=ti-Ouyap8OE) - Prática com MongoDB
 
 
 ## **3 - CRUD no MongoDB - Parte I**
