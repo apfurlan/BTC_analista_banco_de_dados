@@ -1,7 +1,7 @@
 # Bootcamp Analista de Banco de Dados 
 
 
-<img src="xpe_abd_badge.svg" width="200" height="200" class="center" />
+<img src="xpe_abd_badge.svg" width="400" height="200" class="center" />
 
 
 Este repositório contém todos os arquivos e projetos desenvolvidos 
