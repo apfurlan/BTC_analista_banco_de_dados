@@ -27,11 +27,11 @@
 ## **5 - Aspectos gerais de performance de bancos de dados**
 [Aula 5.1](https://www.youtube.com/watch?v=K4V0XQtaeQE) - Aspectos Gerais de Infraestrutura \
 [Aula 5.2](https://www.youtube.com/watch?v=zRpGK5VpTmI) - Aspectos Gerais dos SGBDs \
-[Aula 5.3](https://www.youtube.com/watch?v=rVkW4r5x454) - Índices \ 
-[Aula 5.3](https://www.youtube.com/watch?v=TfM6oae0aSM) - Estatísticas e Plano de Execução de Query
+[Aula 5.3](https://www.youtube.com/watch?v=rVkW4r5x454) - Índices \
+[Aula 5.4](https://www.youtube.com/watch?v=TfM6oae0aSM) - Estatísticas e Plano de Execução de Query
 
 ## **6 - Otimização de Query no SQL Server - Parte I**
-[Aula 6.1](https://www.youtube.com/watch?v=Hhbtf6TrSEo) - Tipos de Índices \ 
+[Aula 6.1](https://www.youtube.com/watch?v=Hhbtf6TrSEo) - Tipos de Índices \
 [Aula 6.2](https://www.youtube.com/watch?v=W4VgwtjGIGQ) - Demonstração: Criando Índices \
 [Aula 6.3](https://www.youtube.com/watch?v=izuivTTuaSk) - Análise do Plano de Execução de Query \
 [Aula 6.4](https://www.youtube.com/watch?v=7fcySrSjfy4) - Demonstração: Análise do Plano de Execução de Query
@@ -52,7 +52,7 @@
 
 
 ## **8 - Operações massivas de dados**
-[Aula 8.1](https://www.youtube.com/watch?v=y4cyQtTw45o) - Extração e carga massiva de dados no SQL Server \ 
+[Aula 8.1](https://www.youtube.com/watch?v=y4cyQtTw45o) - Extração e carga massiva de dados no SQL Server \
 [Aula 8.2](https://www.youtube.com/watch?v=PjMuvnWKJfU) - Extração e carga massiva de dados no MongoDB \
 [Aula 8.3](https://www.youtube.com/watch?v=cqIid1zb0_E) - Expurgo massivo de dados no SQL Server \
 [Aula 8.4](https://www.youtube.com/watch?v=MRH9ypInhM4) - Expurgo massivo de dados no MongoDB
