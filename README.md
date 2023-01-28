@@ -1,5 +1,9 @@
 # Bootcamp Analista de Banco de Dados 
 
+
+<img src="xpe_abd_badge.svg" width="200" height="200" class="center" />
+
+
 Este repositório contém todos os arquivos e projetos desenvolvidos 
 no Bootcamp Analista de Banco de Dados da XP Educação. A estrutura 
 do Bootcamp se dá em 4 módulos como mostrado abaixo:
