@@ -21,7 +21,7 @@
 ## **3 - CRUD no MongoDB - Parte I**
 [Aula 3.1](https://www.youtube.com/watch?v=VHYWi0kCaIM) - Logs \
 [Aula 3.2](https://www.youtube.com/watch?v=yA9mCKed0Ts) - Tipos: Fields \
-[Aula 3.3](https://www.youtube.com/watch?v=xlAHWFpdpAg) - Inserts \
+[Aula 3.3](https://www.youtube.com/watch?v=xlAHWFpdpAg) - Inserts \s
 [Aula 3.4](https://www.youtube.com/watch?v=Og4n5gpIjGk) - Read: Query \
 [Aula 3.5](https://www.youtube.com/watch?v=4E88TFAvVvk) - Updates 
 
