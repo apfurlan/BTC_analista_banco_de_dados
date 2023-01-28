@@ -44,10 +44,9 @@
 
 
 ## **7 - Otimização de Query no MongoDB**
-[Aula 7.1](https://www.youtube.com/watch?v=fzQaGPCynw8)Tipos de Índices\
-[Aula 7.2](https://www.youtube.com/watch?v=DjOoZji2EPI)Plano de Execução de Query\
-[Aula 7.3](https://www.youtube.com/watch?v=NwWef2hPPIk) Otimização de Operações CRUD
-
+[Aula 7.1](https://www.youtube.com/watch?v=fzQaGPCynw8) - Tipos de Índices \
+[Aula 7.2](https://www.youtube.com/watch?v=DjOoZji2EPI) - Plano de Execução de Query \
+[Aula 7.3](https://www.youtube.com/watch?v=NwWef2hPPIk) - Otimização de Operações CRUD
 
 
 
